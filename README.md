@@ -1,2 +1,2 @@
 # Nepo3AD
-Full code will release as soon as our work is accepted
+We will release the full code upon acceptance of our work.
